@@ -1,0 +1,26 @@
+{
+  "name": "nextra",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "next",
+    "build": "next build"
+  },
+  "author": "Shu Ding",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^10.0.0",
+    "nextra": "^0.2.6",
+    "nextra-theme-docs": "^0.2.7",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  },
+  "prettier": {
+    "semi": false,
+    "singleQuote": true
+  }
+}
