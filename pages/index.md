@@ -1,6 +1,7 @@
-# Nextra
+# Notes
 
-**Nextra** is a [Next.js](https://nextjs.org) based static site generator. 0 line of code needed, just write Markdown.  
-It supports [MDX](/mdx), [anchor links](/anchors), file-system based routing and built-in syntax highlighting.
-
-![](/demo.png)
+All my notes, digitized, in dark _and_ light mode.
+- [European History](europeanhistory)
+- [Psychology](psychology)
+- [US History](ushistory)
+- [Environmental Science](environmentalscience)
