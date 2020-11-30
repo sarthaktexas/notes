@@ -1,0 +1,13 @@
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+table {
+    /* margin: auto; */
+    margin-left: 2ch;
+}
+
+content ul {
+    margin-top: 0!important;
+}

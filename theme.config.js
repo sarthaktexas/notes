@@ -21,6 +21,7 @@ export default {
       <meta name="twitter:site" content="@sarthaktexas" />
       <meta name="og:title" content="Notes" />
       <meta name="apple-mobile-web-app-title" content="Notes by Sarthak Mohanty" />
+      <link rel="stylesheet" href="/style.css" />
     </>
   ),
   search: true,
