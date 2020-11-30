@@ -1,6 +1,6 @@
 export default {
   github: 'https://github.com/sarthaktexas/notes',
-  titleSuffix: ' – Notes',
+  titleSuffix: ' by Sarthak Mohanty',
   logo: (
     <>
       <span className="mr-2 font-extrabold text-xl align-top hidden md:inline">Notes</span>
