@@ -29,5 +29,5 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: true,
-  footerText: <>Apache 2.0 {new Date().getFullYear()} © Sarthak Mohanty.</>
+  footerText: <>&copy; Sarthak Mohanty {new Date().getFullYear()}. Licensed under Apache 2.0.</>
 }
