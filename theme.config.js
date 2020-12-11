@@ -22,6 +22,7 @@ export default {
       <meta name="og:title" content="Notes" />
       <meta name="apple-mobile-web-app-title" content="Notes by Sarthak Mohanty" />
       <link rel="stylesheet" href="/style.css" />
+      <script async defer data-website-id="712096f7-8fd9-41ae-8664-f06200c28350" src="https://analytics.sarthakmohanty.me/umami.js"></script>
     </>
   ),
   search: true,
