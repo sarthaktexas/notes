@@ -67,7 +67,7 @@ import ReactPlayer from "react-player"
 - Why did the French Revolution enter a radical phase and what did that radical phase accomplish?
   - It was an effort to restore the French rule and old government. The monarchy fell, the Jacobins took rule, national convention executed and put many on trail, and Robespierre began his Reign of Terror.
 
-<ReactPlayer url="https://youtube.com/watch?v=Pd6E38FfuMg">
+<ReactPlayer url="https://youtube.com/watch?v=Pd6E38FfuMg" />
 
 - What aspects of the French Revolution did Napoleon preserve, and which did he destroy?
   - He kept the principle of equality of all citizens before law, abolition of serfdom and feudalism, religious tolerance, protection of property, and some equality. He took away some equality, divorce equality for men and women, liberty (benevolent despotism), shut down newspapers, manuscripts subjected to government scrutiny before published (freedom of press), mail opened by government police.
