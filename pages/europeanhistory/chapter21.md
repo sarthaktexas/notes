@@ -9,7 +9,8 @@ import ReactPlayer from "react-player"
   - An alliance of Austria, Prussia, Russia, and England that was established to prevent the spread of liberalism and nationalism. They managed to establish a true balance of power among European nations. Its actions kept France from becoming too strong and over-powering other countries or too weak and becoming powerless. They succeeded in overseeing a prolonged period of peace.
   - Their goals were to restore the balance of power in Europe, stop the spread of liberalism and nationalism, determine economic compensation for the Napoleonic Wars, and restore the legitimate powers of Europe.
 - How did Conservatives attempt to repair the damage of the Napoleonic Period and maintain traditional political authority?
-  - SARTHAK WRITE SOMETHING HERE
+  - They want to turn the clock back
+  - Congress of Vienna to create balance of power between European countries
 - Explain the significance of each of the following individuals:
   - Edmond Burke
     - wrote Reflections on the Revolution in France, he believed that society was a contract and the state was a partnership between those living, dead, and those who are to be born. No generation has the right to destroy this and must pass it on to the next generation.
