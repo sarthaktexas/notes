@@ -7,5 +7,11 @@
 - [Chapter 14](chapter14)*
 - [Chapter 13](chapter13)
 - [Chapter 15](chapter15)
+- [Chapter 16](chapter16)
+- [Chapter 17](chapter17)
+- [Chapter 18](chapter18)
+- [Chapter 19](chapter19)
+- [Chapter 21](chapter21)*
+- [Chapter 20](chapter20) // doesn't exist yet :)
 
 *\*yes this order is correct*
