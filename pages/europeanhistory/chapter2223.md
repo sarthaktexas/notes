@@ -95,31 +95,43 @@ import ReactPlayer from "react-player"
 - What effects did the 2nd Industrial Revolution have on European economic and social life?
   - living conditions got better and germany perfected mass production
   - population increased too
-
 - What roles did socialist parties and labor unions play in improving conditions for the working classes?
-
+  - created national organization General Confederation of Labor although weak and ineffective
 - What is a mass society and what were its main characteristics?
-
-
+  - upper class 5% of population 30-40% wealth
+  - middle class 15% of population
+  - lower class was 80% of population
+  - larger and improved urban environment
 - What role were women expected to play in society and family life in the latter half of the 19th century? Who challenged this role?
-
-
+  - white collared jobs before
+  - "marry someone" now
+  - Maria Montessori challenges this with her "new women" lecture
+  - at the end of the century, women lived longer and had fewer children
 - Describe patterns of family life in the 19th century.
-
-
+  - women were supposed to take care of kids because of the "wives and mothers" view of women
 - How did life expectancy and birth rates change in the latter half of the 19th century? Why?
-
-
+  - life expectancy increased and birth rates decreased
+  - this was mainly in part bc of Montessori and better management of diseases and widespread access to clean water
 - Compare and contrast the lives of people from the upper, middle, and lower classes.
-
-
+  - upper class 5% of population 30-40% wealth
+  - middle class 15% of population
+  - lower class was 80% of population
 - Explain how and why governments responded to challenges resulting from Industrialization.
   - Education:
+    - at least 2 hrs education per day for children who worked in factories
   - Sewage and Water systems:
+    - lots of pollution due to sewage
   - Public lighting:
+    - allowed workers to work longer hours at night and in dark places
   - Public housing:
+    - tenements
+    - houses were small in terraced rows
   - Urban Redesign (Paris!)
+    - produced wealth and hence, new urban buildings
   - Parks:
+    - new artistic styles took this into account
   - Public Transportation:
-
+    - bikes, trams, railroad, waterways, roads
 - What is Anarchism?  Who were its proponents?
+  - theory that govt is doing too oppressive and unnecessary and voluntary cooperation among individuals is needed
+  - Zollverein
