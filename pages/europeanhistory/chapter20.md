@@ -37,7 +37,7 @@ import ReactPlayer from "react-player"
 - What efforts were made to improve working conditions?
   - These unions used strikes to try to force employers to increase wages or make working conditions safer. Some unions worked on getting new laws passed.
 
-<ReactPlayer url="https://www.youtube.com/watch?v=MN8fjAjLLpg">
+<ReactPlayer url="https://www.youtube.com/watch?v=MN8fjAjLLpg" />
 
 - Explain the following:
   - The Crystal Palace and Great Exhibition of 1851
