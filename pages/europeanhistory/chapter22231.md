@@ -1,6 +1,6 @@
 import ReactPlayer from "react-player"
 
-# Unit 6 Chapters 22/ 23
+# Unit 6 Chapters 22/23
 <ReactPlayer url="https://www.youtube.com/watch?v=MN8fjAjLLpg"  />
 
 <br />

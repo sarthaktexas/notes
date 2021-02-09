@@ -1,0 +1,99 @@
+import ReactPlayer from "react-player"
+
+# Unit 7 Chapters 22/23
+<ReactPlayer url="https://www.youtube.com/watch?v=KSjDe9_jZk8"  />
+
+## Chapter 22
+- What were the characteristics of Napoleon III's government?
+  - Authoritarian
+  - Napoleon was the chief of state and controlled the armed forces, police, and civil service
+  - Legislative Corps appeared to be a representative government because its members were elected by universal male suffrage for 6 terms but it could not initiate legislation nor affect the budget
+  - Napoleon helped strengthen France's economy and trade
+  - Liberalization of his regime occurred (legalized trade unions, allowed opposition to his campaign to run for government seats, legislative corps had more say in the budget)
+- How did his foreign policy contribute to the unification of Italy and Germany?
+  - Crimean War
+  - Franco-Prussian War
+- How did the Crimean War demonstrate the weakness of the Ottoman Empire and contribute to the breakdown of the Concert of Europe?
+  - Russia v Ottomans over protection of Christian shrines in Palestine
+  - poorly planned and poorly fought war
+  - costly to both sides
+  - Broke up Concert of Europe (Austria and Russia now enemies, Britain pulled back from continental affairs)
+- What actions did Cavour take to unify Italy?
+  - prime minister of Piedmont
+  - constitutional government
+  - fostered business enterprising
+  - growing economy; expansion
+  - large army
+  - made agreement with France to take on Austria
+  - France backed out
+  - northern Italian states joined Piedmont to fight against Austria (nationalism)
+- What actions did Garibaldi take to unify Italy?
+  - fought for unity
+  - led volunteer army of guerilla soldiers to capture Lombardy for Piedmont and later conquered Sicily and Naples
+- What actions did Bismark take to unify Germany?
+  - guided Prussia's unification with Germany
+  - doubled the size of the army
+  - reorganized army with parliament
+  - active foreign policy
+  - won 3 wars
+  - defeated Austria, Denmark, and France
+  - Southern German States joined the N German Confederation
+  - Germany merged with Prussia
+- Explain Bismark's three Alliances
+  - The Triple Alliance was a secret agreement between Germany, Austria-Hungary, and Italy
+  - Italy sought support against France shortly after losing North African ambitions to the French
+- Explain what Realpolitik is and how Bismark used it to unify Germany.
+  - "politics of reality"
+  - politics based on practical concerns rather than theory or ethics
+  - parliament rejected this bill so he went about approving the bill himself
+- Explain the creation of the dual monarchy in Austria-Hungary
+  - Ausgleich of 1867
+  - good for Hungarians but minorities were left out (especially the Slavic peoples)
+- What effort for Reform occurred in the following locations between 1850 and 1870 and how effective were they in alleviating each nation's problems?
+  - The Austrian Empire
+    - 1851 - revolutionary constitutions were abolished and a system of centralized autocracy was imposed
+    - After Austria's defeat in the Italian War in 1859, Emperor Francis Joseph attempted to establish an imperial parliament (the Reichsrat) which was supposed to give a voice to all nationalities but instead it alienated minorities
+    - Dual Monarchy of Austria-Hungary
+  - Russia
+    - Alexander II came to power
+    - Emancipated the serfs in 1861 - serfs were not as free as they wanted to be
+    - Zemstvos - local assemblies meant to give a moderate degree of self-government
+    - reformers wanted more and rapid change
+    - 1881 - People's Will assassinated Alexander II
+    - the ideas of Populism - the political philosophy/movement that supported the rights and power of ordinary people in their struggle against the privileged elite - spread
+  - Great Britain
+    - between 1850 and 1870 real wages for laborers increased more than 225%
+    - Benjamin Disraeli - Tory leader in Parliament (conservative)
+    - Reform Act 867 (lowered monetary requirements for voting)
+    - William Gladstone - Liberal - opened civil service positions to competitive exams rather than patronage, introduced the secret ballot for voting, abolished the practice of purchasing military commissions
+    - Education Act of 1870 - elementary schools available to all children
+<!-- - What were some events happening in North America in the second half of the 19th century and how did those events affect Europe?
+  -  -->
+
+## Ch 23 - The Nation State
+- What general political trends were evident in the nations of Europe in the last decades of the 19th century?
+  - Britain
+    - Reform Act of 1884
+    - Listed Limited Land reform
+  - France
+    - created third republic by universal male suffrage
+    - women were able to get the wounded and work at scouts
+    - Constitution of 1875 established a bicameral legislature and a ministerial responsibility
+  - Spain
+    - King Alfonzo the 12th established conservatives and liberals
+    - Generation of 1898 established to execute social and political reforms
+    - growth of industrialization caused more workers to be attracted to the radical solutions of socialism in Anarchism
+  - Italy
+    - Rather than influencing national exam, people states loyal to the family ties
+    - Number of voters increased
+  - Germany
+    - people influenced by nationalism under a bicameral legislature
+    - political democracy failed to develop because of the army and Bismarck
+  - Austria-Hungary
+    - Dual monarchy established under ministry all responsibility
+    - Count Eduard von Taaffee expanded language causing distress (magyarization)
+  - Russia
+    - expanded powers of secret police
+    - advocates of constitutional and social reform were persecuted and districts of Russia replaced under martial law and zemstvos
+- How were the political trends in Western Europe different from those in Central and Eastern Europe?
+  - Political environment in Eastern Europe was mainly parliamentary or authoritative government. Western Europe was very modernized in that they had democracy, which included things like social welfare
