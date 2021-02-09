@@ -67,8 +67,7 @@ import ReactPlayer from "react-player"
     - Reform Act 867 (lowered monetary requirements for voting)
     - William Gladstone - Liberal - opened civil service positions to competitive exams rather than patronage, introduced the secret ballot for voting, abolished the practice of purchasing military commissions
     - Education Act of 1870 - elementary schools available to all children
-<!-- - What were some events happening in North America in the second half of the 19th century and how did those events affect Europe?
-  -  -->
+- What were some events happening in North America in the second half of the 19th century and how did those events affect Europe?
 
 ## Ch 23 - The Nation State
 - What general political trends were evident in the nations of Europe in the last decades of the 19th century?
