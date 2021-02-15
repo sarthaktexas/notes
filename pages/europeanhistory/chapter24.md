@@ -1,0 +1,102 @@
+import ReactPlayer from "react-player"
+
+# An Age of Modernity, Anxiety, and Imperialism, 1894-1914
+
+<ReactPlayer url="https://youtube.com/?v=meC5Zl5PC1U" />
+
+## Notes
+- What developments in the following areas "opened the way to a modern consciousness?" How did these modern views differ from earlier worldviews?
+  - Science:
+    - Marie Curie
+    - Max Planck
+    - Albert Einstein
+  - Intellectual affairs:
+    - Friedrich Nietzsche
+    - Sigmund Freud
+    - Georges Sorel
+    - Henri Bergson
+    - Charles Darwin
+    - Social Darwinism
+  - Art:
+    - Naturalism
+    - Impressionism
+    - Post-Impressionism
+    - Cubism
+    - Claude Monet
+    - Paul Cezanne
+    - Henri Matisse
+    - Edgar Degas
+    - Pablo Picasso
+    - Vincent Van Gogh
+- What gains did women make in their movement for women's rights?
+  - New Professions
+  - Voting
+  - Suffragette v. Suffragist
+  - Pankhurst Family
+  - Millicent Fawcett
+  - Emily Davidson
+- How did new right-wing politics affect the Jews in different parts of Europe?
+  - Anti-Semitism
+  - Dreyfus Affair
+  - Christian Social Party in Germany/Austria
+  - Kar Leuger, mayor of Vienna
+  - Zionism
+  - Theodor Herzl
+- What political problems did the following countries fact between 1894-1914 and how did they solve them?
+  - Great Britain (be sure to talk about Ireland)
+  - Italy
+  - France
+  - Germany
+  - Austria-Hungary (be sure to mention Nationalism, and the creation of a Dual Monarchy and the effects those had)
+  - Russia (Be sure to mention the Revolution of 1905, Sergei Witte, Peter Stolypin, and socialism)
+
+<ReactPlayer url="https://youtube.com/watch?v=eBA7P-zKbi8" />
+
+- What were the causes of the New Imperialism that took place after 1880?
+- What effects did European Imperialism have on Africa and Asia?
+- Explain the significance of the following in relation to imperialism:
+  - Ideas of Cultural and Racial superiority:
+    - "The White Man's Burden"
+    - Mission civilisatrice
+    - Social Darwinism
+  - Advanced Weaponry:
+    - Minie ball (bullet)
+    - Breech-loading rifle
+    - Machine gun
+  - Communication and transportation technologies:
+    - Steamships
+    - Telegraph
+    - Photography
+  - Advances in Medicine:
+    - Louis Pasteur's germ theory
+    - Anesthesia
+    - Antiseptics
+    - Quinine
+    - Public Health Projects
+  - Diplomatic Tensions:
+    - Berlin Conferences (1884-1885)
+    - Fashoda Crisis (1898)
+    - Moroccan Crises (1905, 1911)
+  - Participants in the imperialism debate:
+    - Pan-German League
+    - J.A. Hobson's and Vladimir Lenin's anti-imperialism
+    - Congo Reform Association
+  - Responses to European Imperialism:
+    - Indian Congress Party
+    - Zulu Resistances
+    - India's Sepoy Rebellion
+    - China's Boxer Rebellion
+    - Japan's Meiji Restoration
+- What was the Bismarckian System of Alliances and how successful was it at keeping the peace?
+  - Three Emperors' League
+  - Triple Alliance
+  - Reinsurance Treaty
+- What issues lay behind the international crises that Europe faced in the late 19th and early 20th centuries?
+  - Crimean War
+  - Weakness of the Ottoman Empire
+  - Congress of Berlin in 1878
+  - Growing influence of Serbia
+  - Bosnia-Herzegovina Annexation Crisis (1908)
+  - First Balkan War
+  - Second Balkan War
+  - Triple Entente
