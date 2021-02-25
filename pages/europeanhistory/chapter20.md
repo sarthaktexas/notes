@@ -1,6 +1,6 @@
 import ReactPlayer from "react-player"
 
-# The Industrial Revolution and it's Impact on European Society
+# The Industrial Revolution and its Impact on European Society
 
 <ReactPlayer url="https://youtube.com/?v=zjK7PWmRRyg" />
 
