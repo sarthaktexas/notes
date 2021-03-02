@@ -4,99 +4,210 @@ import ReactPlayer from "react-player"
 
 <ReactPlayer url="https://youtube.com/?v=meC5Zl5PC1U" />
 
+- aspirin go brrr and people liked it cause non-addictive
+- birth control revolution -- babies did *not* go brrrr
+- pasteurization helped make cholera less prevalent
+- women had cool new jobs like nursing and secretary because public schools taught reading and math
+- news was cool and papers went brrr as well
+- women did not have right to vote yet and feminism was a growing movement
+
 ## Notes
 - What developments in the following areas "opened the way to a modern consciousness?" How did these modern views differ from earlier worldviews?
   - Science:
-    - Marie Curie
+    - Marie and Pierre Curie
+      - husband and wife team in Paris who discovered two of the missing elements; discovered radioactivity
+      - this couple was given a Nobel Prize for their work on radioactivity in 1903.- husband and wife team who discovered the two missing elements (radium and polonium), found powerful energy released from pitchblende called radioactivity, shared the Noble Prize for chemistry for their discovery
     - Max Planck
-    - Albert Einstein
+      - a German physicist, proposed the quantum theory, which holds that a heated body radiates energy not in a continuous unbroken stream, as had been believed, but in intermittent spurts or jumps called quanta
+    - Albert Theory of relativity
+      - altered classical concepts of space and time
   - Intellectual affairs:
     - Friedrich Nietzsche
+      - German philosopher who said that "God is dead," that lackadaisical people killed him with their false values. Said that Christianity and all religion is a "slave morality." He also said that the only hope for mankind was to accept the meaninglessness of human life, and to then use that meaninglessness as a source of personal integrity and liberation. Also stated that from this meaninglessness people called Supermen would exert their mind on other and rise to power. he appealed to people who liked totalitarianism
     - Sigmund Freud
+      - Austrian physician whose work focused on the unconscious causes of behavior and personality formation; founded psychoanalysis.
+      - 1856-1939; Field: psychoanalytic, personality; Contributions: id/ego/superego, reality and pleasure principles, ego ideal, defense mechanisms (expanded by Anna Freud), psychoanalysis, transference
     - Georges Sorel
+      - A French socialist who thought there socialism would come from a general strike of all workers that would cripple the capitalist system. Thought that socialism was an improbable religion rather than accepted truth. Thought that the new socialist governments would not be democratic, rather controlled by a small revolutionary elite. He did not like democracy
     - Henri Bergson
+      - A French philosophy professor who said that personal experiences and intuition were more important than rational thought and thinking
+      - (1859-1941), French philosophy professor, believed immediate experience and intuition were as important as rational and scientific thinking
+      - In the 1890's, French philosophy professor Henri Bergson (1859-1941) convinced many young people through his writing that immediate experience and intuition were as important as rational and scientific thinking for understanding reality. Indeed, according to Bergson, a religious experience or a mystical poem was often more accessible to human comprehension than a scientific or a mathematical equation
     - Charles Darwin
+      - wrote on the Origins of Species and the Descent of Man, while theory of evolution was generally accepted among scientists his mechanics of natural selection was not widely accepted until genetic research
     - Social Darwinism
+      - A social theory which states that the level a person rises to in society and wealth is determined by their genetic background
   - Art:
     - Naturalism
+      - was a continuation of realism it lacked an underlying not of liberal optimism about people and society were pessimistic about Europe's future. and portrayed characters caught in the grip of forces beyond their control
     - Impressionism
+      - a movement originated in france when artists rejected the studios and museums and went to paint in the country side, however also painted of roads, and towns and city life in action, sought originality and distinction from past works. utilized bright colors dynamic brushstrokes and smaller private scale
     - Post-Impressionism
+      - retained impressionist emphasis on light and color but revolutionized it even further by paying more attention to structure and form. Sought to use both color and line to express inner feelings and produce a personal statement of reality rather than just imitating objects
     - Cubism
+      - cubes go brrrrr
+      - A style of art in which the subject matter is portrayed by geometric forms, especially cubes
+      - Employs an analytical vision based on fragmentation and multiple viewpoints. Attempts to break down nature into basic geometric forms (cubes, rectangles, triangles, etc.) Braque, Picasso
     - Claude Monet
+      - captured the interplay of light water and atmosphere especially evident in Impression, Sunrise
+      - a French painter who used a impressionism called "super-realism," capture overall impression of the thing they were painting who painted Impression Sunrise
     - Paul Cezanne
+      - most important post-impressionist artists, sought to visually express the underlying of geometric shapes and structure and form or everything. he accomplished this by pressing his wet brush directly onto the canvas forming cubes of color. His technique was to break down forms to their basic components
     - Henri Matisse
+      - (1869-1954); most important French artist of the 20th century; expressionism of a group of painters led by Matisse was so extreme that an exhibition of their work in Paris promoted shocked critics to call the les fauves "the wild beasts"; Matisse and his followers painted real objects, but their primary concern was the arrangement of color, line, and from as an end in itself
+      - les fauves
     - Edgar Degas
     - Pablo Picasso
+      - a Spanish artist, founder of Cubism, which focused on geometric shapes and overlapping planes. his paintings led to the beginning of abstract painting. - Les Demoiselles d'Avignon
     - Vincent Van Gogh
+      - The Starry Night
+      - A Dutch expressionist who painted a "moving visions in his mind's eye"
+      - He was considered a failure during his lifetime - only selling one painting. However, today he is considered. Was a tortured and tragic figure. for him, art was a spiritual experience, he was especially interested in color and believed it could act as its own language. maintained that artists should paint what they felt.
 - What gains did women make in their movement for women's rights?
   - New Professions
+    - some middle and upper middle class women gained access to higher education and others sought entry into occupations dominated by men. The first to fall was teaching. Because medical training was largely closed to women, they sought alternatives through the development of nursing
   - Voting
+    - many Feminists believed that the right to vote was the key to all other reforms to improve the position of women. The British women's movement was the most vocal and active in Europe. but it divided over tactics
   - Suffragette v. Suffragist
   - Pankhurst Family
+    - another feminist group favored a more radical approach. Emmeline Pankhurst and her daughters founded the Women's Social and Political Union which enrolled mostly middle-class and upper middle class women. the members of this organization realized the value of media and used unusual publicity stunts to call attention to their demands. they were labeled suffragettes, by male politicians and hey pelted government officials with eggs, chained themselves to lampposts, smashed windows or department stores, burned railroad cars, and went on hunger strikes in jail
   - Millicent Fawcett
-  - Emily Davidson
+    - organized a moderate group who believed that women must demonstrate that they would use political power responsibly if they wanted parliament to gran them the right to vote
+  - Emily Davison
+    - davison was a suffragist who martyred herself for the cause by throwing herself in front of a horse at the Epsom Derby
 - How did new right-wing politics affect the Jews in different parts of Europe?
   - Anti-Semitism
+    - Prejudice against Jews
+    - hostility to or prejudice against Jews.
+    - Hostility toward or discrimination against Jews
   - Dreyfus Affair
+    - incident when anti-semitism caused a Jewish French army captain to be falsely convicted of espionage
   - Christian Social Party in Germany/Austria
+    - founded in 1878 in Germany by Adolf Stoecker
+    - the party combined a strong Christian and conservative programme with progressive ideas on labour, and tried to provide an alternative for disillusioned Social Democrat voters. It also focused on the "Jewish question" with a distinct antisemitic attitude.
   - Kar Leuger, mayor of Vienna
+    - Ultra-nationalist, anti-semitic leader of Austrian Christian Social Party who was elected mayor of Vienna in 1895
   - Zionism
+    - Jewish create a nationalist movement and returned to palestine, the land of of ancient israel. National ideas spread and the idea of national independence captured the imagination of some jews
+    - The key figure in the political growth of this was Theodor Herzl
   - Theodor Herzl
+    - Hungarian-born Jew published The Jewish State in 1896 and called the first International Zionist Congress
 - What political problems did the following countries fact between 1894-1914 and how did they solve them?
   - Great Britain (be sure to talk about Ireland)
+    - the working classes: Trade unions and the labor party were forcing liberals to adopt to significant social reforms. they wanted more radical changes for the economic system since the government wasn't helping start these reforms. a movement of laborers emerged among a group of intellectuals known as the Fabian Socialists who stressed the need for the workers to use their rights to vote to capture the House of Commons and pass legislation hat would benefit the laboring class. these groups weren't Marxist. favored evolution toward a socialist state by democratic means. The liberals that gained control over the House of Commons in that year held the government from 1906- 1914, thought they would enact a social welfare program or lose the support of the workers. The National Insurance Act of 1911 provided benefits for workers in case of sickness and unemployment to be paid for by the compulsory contributions from workers, employers, and the state.
   - Italy
+    - liberals had problems in italy, a certain amount of stability was achieved when the liberal leader, Giovanni Gioletti served intermittently as prime minister and was the master of transformation, a system in which old political groups were transformed into new gov. coalitions, by political and economical bribery. However, his devious effects in the long term, made Italy corrupt and unmanageable. When urban workers turned to violence to protest their living ad working conditions, Giolitti tried to appease them with Social welfare legislation and universal male suffrage to make him look good but it really didn't do much.
   - France
+    - evidence of renewed anti-semitism in europe. Alfred Drefus a jew was accused for selling secrets and condemned to death. Evidence emerged for his innocence. Another catholic officer who was more obviously a traitor, but didn't need to have a trial. Some right-winged journalists even used the case to push their own anti-semitism views. After a wave of intense public outrage, the republic's leader's insisted on another trial. also he trail failed to set aside the guilty verdict, the government pardoned Dreyfus and he was fully exonerated. Moderate republicans lost control to radical republicans who were determined to make greater progress toward a more democratic society by breaking the power of the Republican's enemies., especially the army of the catholic church. The church and state were officially separated in 1905 and during the next tow years, te government seized church property and stopped paying clerical salaries. As a small nation, france lagged far behind great Britain, germany, and the united states in industrial activity. Moreover, after the industrialization france realized it had done little to help the working class members and their discontent. The french parliament felt pressured to enact labor legislation. This made strikes more appealing to the working class.
   - Germany
+    - Germany had become the strongest military and industrial power on the Continent. New social configurations had emerged. THe growth f expansion led to even greater expansion for the Social Democratic Party. William II was no more successful at slowing the growth of Social Democrats. It had become the largest single party int eh Reichstag. Its growth frightened the middle and upper classes who blamed labor for their own problems. Conservatives especially landowning nobility and representatives of heavy industry (two of the powerful ruling groups in Germany), tried to block it by supporting William II's activist foreign policy. German society had problems between modernization and keeping old traditions that was manifested in a new, radicalized right-winged politics.
   - Austria-Hungary (be sure to mention Nationalism, and the creation of a Dual Monarchy and the effects those had)
+    - had problems with having numerous nationalities. the granting of universal male suffrage in 1907. As Austria industrialized, two working class parties came to existence both strongly influenced by nationalism. The social Democrats were marxists, and the Christian Socialists who were more nationalist and anti-semitic. While subjugating their nationalities, the ruling Magyars in Hungary developed a movement for complete separation from Austria. When they demanded the hungarian army be separated from the imperial army, Emperor Francis Joseph as King of Hungary acted forcefully and threatened to impose universal male suffrage on Hungary a move that would challenge Magyar domination of the minorities. Kept and maintained the Dual Monarchy because Hungarian leaders fell in line with the parliamentary leader.
   - Russia (Be sure to mention the Revolution of 1905, Sergei Witte, Peter Stolypin, and socialism)
+    - Whitte's program made possible the rapid growth of a modern steel and coal industry in Ukraine. so the result with mass industrialization was oppressed people and more socialist parties. With industrialization came factories an industrial working class, industrial suburbs around Saint Petersburg and Moscow, and pitiful working conditions. Socialist thought and socialist parties developed although Russia soon force them to go underground to become revolutionary. Nicholas II made it very autocratic oppressed socialist groups. The Marxist Social Democratic Party held its first congress in Minsk in 1898 but the arrest of its leaders cause the next one to be in Brussels in 1903. The growing opposition of the Tsarist regime exploded in the revolution of 1905, because before, the Social Revolutionaries worked to overthrow the Tsarist autocracy and establish peasant socialism, having no other outlet they advocated for political terrorism.
 
 <ReactPlayer url="https://youtube.com/watch?v=eBA7P-zKbi8" />
 
+- english made low quality product so they were forced to smuggle drugs to make money
+- quinine made malaria go away
+- charles darwin's evolution thing let countries use it against other nations (social darwinism)
+- scramble for africa bc they didn't care about africa (berlin conference)
+- imperial competition was the whole point of everything
+
 - What were the causes of the New Imperialism that took place after 1880?
+  - search for new markets and raw materials, missionary work, and new military and naval bases to protect one's interests against other European powers
 - What effects did European Imperialism have on Africa and Asia?
+  - Began in 1880s in Africa, earlier in Asia; in 1800 Europeans controlled about 7% of the world's territory--by 1914 they controlled 84%; Britain's control of Egypt in the 1880s became the model for the "New Imperialism"
 - Explain the significance of the following in relation to imperialism:
   - Ideas of Cultural and Racial superiority:
     - "The White Man's Burden"
+      - racist and patronizing view that preached that the "superior" Westerners had an obligation to bring their culture to "uncivilized" peoples in other parts of the world
     - Mission civilisatrice
+      - A mission of French imperialism to implement French religion, culture, etc in their colonies. Similarly to "White Man's burden," this policy considered European culture to be superior to that of less developed ethnicities
     - Social Darwinism
+      - ideology of Herbert Spencer, rationalized the conquest of weak countries by stronger, more civilized ones, justified military superiority and conquest by the Europeans
   - Advanced Weaponry:
     - Minie ball (bullet)
+      - a type of muzzle-loading spin-stabilized rifle bullet named after its co-developer, Claude-Étienne Minié, inventor of the Minié rifle
     - Breech-loading rifle
+      - firearm that got popular during the nineteenth-century
     - Machine gun
+      - bullets go brrr
   - Communication and transportation technologies:
     - Steamships
+      - Run on steam power, rather than sailing or manpower; passenger and freight ships
+      - Replace sailing in late 1860s
+      - Ship design becomes more sophisticated; passenger and freight ticket prices lower
+      - Intercontinental shipment of low-priced raw materials feasible
     - Telegraph
+      - connected auntie anne and daddy dunkin
+      - helped financial centers communicate
+      - conveyed world commodity prices quickly => uniform global economy
     - Photography
+      - invented
   - Advances in Medicine:
     - Louis Pasteur's germ theory
+      - Theory developed by Louis Pasteur (1822-1895), a French chemist who started studying fermentation in 1854 for brewery. In his observation, he realized that fermentation was dependent on the growth of living organisms, and the activity of the organisms could be concealed by heat, or pasteurization. This implied that germs caused disease, but they could be controlled.
     - Anesthesia
+      - an invention of modern surgery that solved a major barrier; alcohol and opiates were used for centuries, but were crude and not very efficient; after experiments, sulfuric was used successfully as well as chloroform within a year
     - Antiseptics
+      - Was developed by English surgeon Joseph Lister. It was the idea that a chemical disinfectant applied to a wound dressing would destroy aerial bacteria. This lead to more sanitary conditions in German operating rooms.
     - Quinine
+      - cure for malaria
     - Public Health Projects
+      - Governments accepted some responsibility for the health of citizens and by the 1860s and 1870s Europeans were making real progress toward adequate water supplies and sewer systems
   - Diplomatic Tensions:
     - Berlin Conferences (1884-1885)
+      - scramble for africa
+      - an international conference in 1884 and 1885 arranged by Otto von Bismarck of Germany and Jules Ferry of France. Established that in order to be recognized, an occupied state must be occupied effectively. Also established Leopold's rule over a neutral Congo and attempts to stop slavery. Basically split up Africa
     - Fashoda Crisis (1898)
+      - British forces led by Kitchener closed in on towns occupied by French forces as both were headed to Omdurman and the upper Nile. They came to the brink of war but eventually the French backed off as they were wracked by the Dreyfus Affair
     - Moroccan Crises (1905, 1911)
+      - 1st Moroccan Crisis 1905: Wilhelm of Germany said he would always support the Sultan of Morocco and in doing so he angered GB and France. He had planned that this would drive a wedge between GB, France and Morocco. Had the opposite effect. France gained interest in Moroccan affairs.
+      - 2nd Moroccan Crisis: French pushed troops into Morocco claiming to be helping the Sultan but actually violating the terms of the Algeciras convention. Germany sent a warship to Morocco intensifying tensions between France and Germany right before the outbreak of WWI.
   - Participants in the imperialism debate:
     - Pan-German League
+      - an extremist, ultra-nationalist political interest organization which was officially founded in 1891, a year after the Zanzibar Treaty was signed
     - J.A. Hobson's and Vladimir Lenin's anti-imperialism
+      - Hobson did a study on imperialism and found that it could be avoided (in his opinion) if power and wealth was equally distributed through a country. This heavily influenced many intellectuals; one of them being Lenin. This led/ went hand in hand with socialism which Lenin was trying to advocate for; specifically in Russia
     - Congo Reform Association
+      - A group backed by E.D. Morel that intended to draw attention to the atrocities that were occurring in the Congo and try to correct Leopold's mistakes. Due to the work of Casement and Morel they printed thousands of letters, newspapers and leaflets to distribute around the world.
   - Responses to European Imperialism:
     - Indian Congress Party
+      - nationalist group in India that called for independence from Britain; led by Western-educated Indian elites; led India in the early postcolonial era
     - Zulu Resistances
+      - In the 1830s, Boers moved into the interior of South Africa. They wanted to engage in conflicts with the Zulu. The battles between the two continued well into the 19th century though the Zulu were never really threatened. Nonetheless, the Zulu came in conflict with the British whom were extending their control over Africa and invading the homeland of the Zulu. Despite the early victories of the Zulu, the technology and vast resources at the command of the British strongly overpowered them
     - India's Sepoy Rebellion
+      - the 1857-58 insurrection by Muslim and Hindu Mercenaries in the British army that spread throughout northern and central India before finally being crushed
     - China's Boxer Rebellion
+      - Boxers were frustrated and fed up with foreigners. Starting with an uprising in the North, the Boxers killed anyone that was either Western or was apart of their world; for example Christian Chinese. GB retaliated with an even stronger force and slaughtered them and cracked down hard on China
     - Japan's Meiji Restoration
+      - the rapid industrialization and modernization of Japan
 - What was the Bismarckian System of Alliances and how successful was it at keeping the peace?
   - Three Emperors' League
+    - This was an alliance started by Bismarck, between Germany, Austria, and Russia. Conflicting interests between Austria and Russia during the Russo-Turkish war and the resulting Congress of Berlin caused it to fall apart. Soon, Russia sought Germany for an alliance again, and it was rekindled in 1881.
   - Triple Alliance
+    - Italy is a cry baby because they didn't find allies so they joined the Dual Alliance and formed the Triple alliance
   - Reinsurance Treaty
+    - Treaty between Bismarck and Russia in 1887 so Germany wouldn't have a 2 front war. Wilhelm fired Bismarck, removed treaty, Russia allied with France.
 - What issues lay behind the international crises that Europe faced in the late 19th and early 20th centuries?
   - Crimean War
+    - Conflict between the Russian and Ottoman Empires fought primarily in the Crimean Peninsula. To prevent Russian expansion, Britain and France sent troops to support the Ottomans
   - Weakness of the Ottoman Empire
+    - weak ruler
+    - power struggles between rival ministers
+    - religious experts
+    - commanders of the Janissary troops
+    - weak political and social order
   - Congress of Berlin in 1878
+    - Brought together by Bismarck end the Russo-Turkish War and to prevent an entire European war. Peace was kept through the partition of the Ottoman Empire; Russians obtained Batum and Kars, Romania and Serbia gained independence, recognized Montenegro as an independent state, and divided Bulgaria into three zones still within the Ottoman Empire, Austria-Hungary was to "occupy and administer" Bosnia, Britain received Cyprus (a large island), France was told they might expand from Algeria into Tunisia, Italy got cheated out of anything, and Germany got nothing. This treaty averted war for the time being but left both the Russians and Turks dissatisfied and later was one of the causes for the First World War.
   - Growing influence of Serbia
+    - Serbia wanted to be independent and wanted an ethnic serb state which led to tension with countries that had serbs ( ottomans and austria/hungary)
   - Bosnia-Herzegovina Annexation Crisis (1908)
-  - First Balkan War
-  - Second Balkan War
+    - Austria-hungary annexed Bosnia and Herzegovina to prevent Serbia from gaining more influence
+  - First and Second Balkan War
+    - Serbia/Greece/Bulgaria attacked Ottoman empire, Bulgaria wanted more spoils and Austria intervened and Bulgaria was forced to give up Albania.
+    - All of the Balkan territories wanted more land after the Congress of Berlin. 1st 1912-Serbia, Bulgaria, Greece and Montenegro went to war against the Turks. They won and divided the territory, but Bulgaria took too much. This spurred the 2nd war in 1913-The Turks, Romanians, Greeks, Serbs and Montenegro's beat Bulgaria and took the land they just gained back. Due to these series of wars, the Ottomans lose a significant amount of territory I the European continent, however, Serbia and Austria-Hungary both increases power.
   - Triple Entente
+    - a military alliance between Great Britain, France, and Russia in the years preceding World War I
+    - fancy word because they want to sound cool
