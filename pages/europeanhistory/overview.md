@@ -12,6 +12,10 @@
 - [Chapter 18](chapter18)
 - [Chapter 19](chapter19)
 - [Chapter 21](chapter21)*
-- [Chapter 20](chapter20) // doesn't exist yet :)
+- [Chapter 20](chapter20)
+- [Chapter 22/23 Part 1](chapter22231)
+- [Chapter 22/23 Part 2](chapter22232)
+- [Chapter 24](chapter24)
+- [Chapter 25](chapter25)
 
 *\*yes this order is correct*
