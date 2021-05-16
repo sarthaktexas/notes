@@ -2,5 +2,6 @@
 
 All my notes, digitized, in dark _and_ light mode.
 - [European History](europeanhistory/overview)
-- [US History](ushistory/overview)
-- [Environmental Science](environmentalscience/overview)
+- [Comparative Government](comparativegovernment/overview)
+
+Some subjects are missing and for access, please email me at [sarthak@sarthakmohanty.me](mailto:sarthak@sarthakmohanty.me)
