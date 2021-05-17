@@ -1,0 +1,66 @@
+# Chapter 6: Authoritarian Regimes
+- tldr
+  - authoritarian systems do not provide any official mechanism by which the people can hold the government accountable for its actions and policies
+  - many factors can influence the manner in which authoritarianism emerges and endures, including economic, social, religious and historical conditions
+  - authoritarian systems primarily use coercion and cooptation to maintain rule and legitimacy, which strong patterns of state corporatism and patron-clientelism
+  - authoritarian systems can take many forms, including military rule, personal rule, one-party states, and theocratic rule
+
+- **authoritarian regimes**: don't give people a way to change the government
+- **totalitarianism**: attempt to control and dominate every aspect of their people's lives
+  - not the same as authoritarianism
+- most authoritarian regimes are _not_ totalitarian
+## Sources of Authoritarian Rule
+- economic factors
+  - massive economic inequality can contribute to authoritarianism while a large and broad middle class would undermine authoritarian rule
+  - widespread poverty and deep inequality can lead to either the wealthy using the power of the state or the "have-nots" seizing control from the elites through revolution
+    - both end in authoritarianism
+- social factors
+  - **political culture**: norms for people in power
+  - **statism**: the tendency to trust in the state for security and provision of basic needs
+- religious factors
+  - countries with ties to Catholicism and Islam have been much slower to develop democracy than countries rooted in Protestant denominations of Christianity
+## Authoritarian Means of Control
+- **coercion**: forcibly compelling people to submit to the regime either indirectly (surveillance) or directly (brute force)
+  - Tienanmen Square in China (direct coercion)
+- state control of the media
+  - authoritarian regimes restrict independence of the media to report news that could be problematic for the government
+    - creation of a state owned and operated media outlet
+    - censorship of content
+    - shutdown of media outlets
+    - arrest, intimidation, or targeted killings of journalists
+- restrictions on civil society
+  - government control on civil societies
+    - requiring registration
+    - blocking specific types of groups
+    - censorship of a group's messaging
+    - banning the entry of NGOs
+    - arresting organizers or participants or protest demonstrations
+- intimidation of political opposition
+  - arrest of opposition leaders and candidates
+  - disqualifying other party
+  - questionable conduct of elections or ballot-counting processes
+  - restricting opposition candidates' access to media
+- cooptation
+  - state corporatism: state controls creation and organization of civil societies
+  - patron-clientelism: rulers in authoritarian systems place people into key positions of power which is often for personal gain
+  - corruption: abuse of authority for personal gain
+    - power vs authority
+      - power: motivate people to do something that they would not
+      - authority: official position
+      - power from authority but does not need to come from authority
+- Personality Cult
+  - leader becomes unifying symbol of pride and patriotism of the people
+  - *Mao China and Stalinist Soviet Union*
+## Types of Authoritarian Regimes
+- personal rule
+  - historical absolutist monarchies of Europe
+- military rule
+  - comes from coup d'état
+  - *Nigeria*
+- one-party rule
+  - dominant-party system
+  - *CCP China*
+- theocracy
+  - rule by god; power held by religious people
+  - Supreme Leader's view on religious text is the law of the land
+  - *Islam*
