@@ -53,7 +53,7 @@ import ReactPlayer from "react-player"
 		- France, Britain, and Italy condemned Hitler's rearmament, but no action was taken against him.
 		- The British pursued a policy of **appeasement** , which was based on the idea that if European states satisfied the reasonable demands of dissatisfied powers, the latter would be content, and stability and peace would be achieved in Europe.
 		- Then, in 1936 Hitler sent troops into the demilitarized Rhineland. France couldn’t act without British aid.
-		- Hitler also gained new allies, including , who was angered at French and British opposition to his invasion of Ethiopia. In 1936, the two recognized thier common political and economic interests in an agreement called the Anti-Comintern Pact. In addition, Germany and Japan agreed to maintain a common front against communism.
+		- Hitler also gained new allies, including , who was angered at French and British opposition to his invasion of Ethiopia. In 1936, the two recognized their common political and economic interests in an agreement called the Anti-Comintern Pact. In addition, Germany and Japan agreed to maintain a common front against communism.
 	- The Path to War in Europe (1937-1939)
 		- Part of Hitler’s rearmament included plans for a new type of warfare called Blitzkrieg, or “lightning war”.
 		- Hitler coerced the Austrian chancellor into putting a Nazi in charge of gov’t, who allowed German troops to occupy Austria. Later, Hitler formally annexed Austria.
