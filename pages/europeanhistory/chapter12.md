@@ -4,7 +4,6 @@ import ReactPlayer from "react-player"
 The revival of interest in Greek and Roman classics promoted by humanists and spread by the printing press engendered a more secular and individualistic value system in the ideal man.
 
 ## Crash Course
-
 <ReactPlayer url="https://www.youtube.com/watch?v=tecocKSclwc" />
 <br />
 <ReactPlayer url="https://www.youtube.com/watch?v=EuzAbE-kPkM" />

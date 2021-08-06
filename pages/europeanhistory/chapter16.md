@@ -1,7 +1,7 @@
 import ReactPlayer from "react-player"
 
 # The Scientific Revolution and the Emergence of Modern Science
-The Renaissance ideals of logic and trational thought influenced the growth of scientific thinking.
+The Renaissance ideals of logic and traditional thought influenced the growth of scientific thinking.
 
 ## Crash Course
 

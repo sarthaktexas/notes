@@ -4,7 +4,6 @@ import ReactPlayer from "react-player"
 Major events of the fourteenth century played a pivotal role in the disintegration of the three main pillars of medieval life.
 
 ## Crash Course
-
 <ReactPlayer url="https://www.youtube.com/watch?v=rNCw2MOfnLQ" />
 
 * Medieval Europe was famine-ridden.

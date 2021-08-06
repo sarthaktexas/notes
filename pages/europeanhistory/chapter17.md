@@ -1,10 +1,9 @@
 import ReactPlayer from "react-player"
 
 # The Eighteenth Century: An Age of Enlightenment
-During the Englightenment the rationalism of scientific thought was applied to political and economic ideas. Traditional societal and religious ideas were challenged by Voltaire and Diderot, who promoted enlightened despotism and deism, while Locke and Rousseau came up with new political models involving the concepts of natural law and natural rights that challenged absolutism.
+During the Enlightenment the rationalism of scientific thought was applied to political and economic ideas. Traditional societal and religious ideas were challenged by Voltaire and Diderot, who promoted enlightened despotism and deism, while Locke and Rousseau came up with new political models involving the concepts of natural law and natural rights that challenged absolutism.
 
 ## Crash Course
-
 <ReactPlayer url="https://www.youtube.com/watch?v=NnoFj2cMRLY" />
 
 ## Major Concepts
